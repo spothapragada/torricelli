@@ -4,4 +4,6 @@
 
 [C.R. Gette : 2.5 ways to get weather data: using an API and NOAA](https://gettecr.github.io/noaa-api.html)
 
+[Linear Digressions](https://lineardigressions.com/)
+
 
