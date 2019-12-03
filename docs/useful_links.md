@@ -6,4 +6,6 @@
 
 [Linear Digressions](https://lineardigressions.com/)
 
+[AWS Amplify - ML Web Apps for AI/ML](https://www.youtube.com/watch?v=hyFmtK0OjfI)
+
 
