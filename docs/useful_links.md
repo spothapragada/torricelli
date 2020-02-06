@@ -8,4 +8,5 @@
 
 [AWS Amplify - ML Web Apps for AI/ML](https://www.youtube.com/watch?v=hyFmtK0OjfI)
 
+[Earth Lab Data - Data Science Tutorials](https://www.earthdatascience.org/courses/earth-analytics-python/)
 
