@@ -8,3 +8,8 @@
 * Show user a view of the changing pressure conditions and how they 'feel',something akin to time series. 
     * Show prevailing conditions in a certain mile radius(?) and how other users may be feeling as well 
 
+## 02/20/2021 - From Harsha
+
+*  Found a tutorial to create a weather service using **_real data_**!!! What are the odds??!!?? Will try and implement
+that and see what can be learned... 
+   

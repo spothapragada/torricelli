@@ -10,3 +10,4 @@
 
 [Earth Lab Data - Data Science Tutorials](https://www.earthdatascience.org/courses/earth-analytics-python/)
 
+[Let's Build a Fast, Modern Python API with FastAPI](https://www.youtube.com/watch?v=sBVb4IB3O_U&ab_channel=PyCharmbyJetBrains)
