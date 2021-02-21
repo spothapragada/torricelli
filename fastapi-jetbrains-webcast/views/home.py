@@ -7,6 +7,6 @@ templates = Jinja2Templates("templates")
 router = fastapi.APIRouter()
 
 
-@router.get('/')
+@router.get('/', include_in_schema=False)
 def index(request: Request):
     return templates.TemplateResponse("index.html", {"request": request})
