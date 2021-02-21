@@ -1,6 +1,5 @@
-from typing import Optional
 import fastapi
-import httpx
+
 from models.location import Location
 from models.umbrella_status import UmbrellaStatus
 from services import live_weather_service
@@ -16,9 +15,8 @@ async def do_i_need_an_umbrella(location: Location = fastapi.Depends()):
     category = weather.get('category', 'UNKNOWN')
 
     forecast = data.get('forecast', {})
-    temp = forecast.get('temp',0.0)
+    temp = forecast.get('temp', 0.0)
 
     bring = category.lower().strip() in {'rain', 'mist'}
 
-    umbrella = UmbrellaStatus(bring_umbrella=bring, temp=temp, weather=category)
-    return umbrella
+    return UmbrellaStatus(bring_umbrella=bring, temp=temp, weather=category)
