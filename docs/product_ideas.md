@@ -13,3 +13,7 @@
 *  Found a tutorial to create a weather service using **_real data_**!!! What are the odds??!!?? Will try and implement
 that and see what can be learned... 
    
+## 01/31/2022 - From Harsha
+
+* Returning after a full year. Looking to implement a weather service using **_real data_** and FBProphet. 
+
